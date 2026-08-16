@@ -1,5 +1,3 @@
-# Repositorio para la asignatura de Algoritmia PL2
-
 > [!IMPORTANT]
 > Acordaros de hacer PULL cada vez que vayáis a editar vuestro código.
 
